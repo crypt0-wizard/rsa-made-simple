@@ -1,6 +1,6 @@
-# RSA Made Simple
+# How Two Primes Changed the World
 
-> A complete mathematical guide to understanding RSA cryptography - theory, proofs, and security analysis
+> Because cryptography doesn’t have to feel like punishment by math gods.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
